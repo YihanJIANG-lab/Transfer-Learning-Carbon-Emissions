@@ -1,0 +1,6 @@
+,R2_Average,R2_Average,R2_Average,R2_Average,R2_Average,MAE_Average,RMSE_Average
+,count,mean,std,min,max,mean,mean
+experiment_type,,,,,,,
+A,55,0.7653,0.2599,-0.6278,0.9178,0.9737,1.3805
+B,55,0.6227,0.125,0.1876,0.7655,1.4008,1.8801
+B_dev,55,0.5761,0.2057,-0.1429,0.7697,1.4584,1.9396

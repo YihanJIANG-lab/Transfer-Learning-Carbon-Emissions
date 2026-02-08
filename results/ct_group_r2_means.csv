@@ -1,0 +1,4 @@
+sample_group,R2_Average,R2_log_Scope1,R2_log_Scope2,R2_log_Scope3_upstream,R2_log_Scope3_downLA,R2_log_Scope3_prod,R2_log_Scope_total
+High,0.6884,0.7563,0.7302,0.8816,0.5612,0.3241,0.8771
+Medium,0.6194,0.7078,0.6356,0.7732,0.4874,0.3453,0.7668
+Low,0.4764,0.738,0.5003,0.4588,0.1676,0.3523,0.6415

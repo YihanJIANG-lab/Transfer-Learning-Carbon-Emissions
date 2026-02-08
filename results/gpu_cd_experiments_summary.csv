@@ -1,0 +1,9 @@
+,R2_Average,R2_Average,R2_Average,R2_Average,R2_Average,MAE_Average,RMSE_Average
+,count,mean,std,min,max,mean,mean
+experiment_type,,,,,,,
+C,55,0.8202,0.0547,0.6521,0.9125,0.9252,1.2995
+C_dev,55,0.8106,0.0734,0.4545,0.891,0.9385,1.3204
+D_full,55,0.7382,0.0639,0.5915,0.8991,1.0788,1.5677
+D_full_dev,55,0.7133,0.0759,0.5264,0.8647,1.1401,1.6368
+Transfer_Learning_FTT,55,0.6892,0.0818,0.3289,0.859,1.2376,1.7262
+Transfer_Learning_FTT_Developed,55,0.6537,0.0747,0.3562,0.7775,1.3156,1.8161
